@@ -12,7 +12,7 @@
 
 📝 I occasionally write articles on [elinelis.com](elinelis.com)
 
-💬 Ask me about **React, JavaScript (vanilla)**
+💬 Ask me about **JavaScript (vanilla)**
 
 📫 How to reach me **kavalidisioannis@yahoo.gr**
 
