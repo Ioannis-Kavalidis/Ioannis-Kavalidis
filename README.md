@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Web-Developer with a strong will, positive attitude, learning mentality and hands-on personality.</h3>
 <span align="center">
 
-🔭 I’m currently working on [my-react-resume](ioannis-kavalidis.github.io/my-react-resume/)
+🔭 I’m currently working on [my-react-resume](https://ioannis-kavalidis.github.io/my-react-resume/)
 
 🌱 I’m currently learning **Express JS**
 
